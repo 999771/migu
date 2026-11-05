@@ -1,6 +1,7 @@
 央视频道,#genre#
-更新日期: 2026-11-4 22:14:17,http://play.kankanlive.com/live/1698234869325962.m3u8
+更新日期: 2026-11-5 07:13:20,http://play.kankanlive.com/live/1698234869325962.m3u8
 CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
+CCTV3综艺,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv3hd/2000/01.m3u8?msisdn=f422fbde19e80678778ff7b7027da41e&mdspid=&spid=699004&netType=0&sid=5500212864&pid=2028597139&timestamp=20261105070319&Channel_ID=0116_2600034600-99000-201600010086378&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=112.81.91.98&SecurityKey=20261105070319&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=6f3d8f9aa9205ddd13fb980492f20b43&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=18b5500bd3aa4b23ed1e8100fedbd430
 CCTV9纪录,http://play.kankanlive.com/live/1698423397390920.m3u8
 CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 CCTV世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
@@ -106,6 +107,8 @@ CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 南京少儿,http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
 海门教育人文,http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenjyrw.m3u8
 海门经济生活,http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenjjzh.m3u8
+沭阳综合,http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
+大丰一套,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
 大丰二套,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8
 如东1,http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
 无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8
